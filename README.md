@@ -10,4 +10,4 @@ sch: https://www.youtube.com/results?search_query=make+pcb+at+home
 # CNC
 - [How to Make A PCB Making CNC in Your Budget](https://youtu.be/Ljqcszm07Rk)
 - [PCBs in Two Hours? Zack Sucks at CNC](https://youtu.be/Hm_JrACrmVs)
-- [](url)
+- [DIY PCB: Professional Results with CNC + Laser](https://youtu.be/BzXxSgVrBUc)
