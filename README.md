@@ -1,6 +1,9 @@
 # PCB-Fabrication.Process
 sch: https://www.youtube.com/results?search_query=make+pcb+at+home
 
+# inspire.
+- [High Quality DIY PCB Boards at Home, Step by Step detailed Instructions (PLUS SMD SOLDERING)](https://youtu.be/IfhOYhjXLDg)
+
 # Resin 3D Printer
 - [The fastest way to make crisp PCBs at home!](https://youtu.be/RudStbSApdE)
 
